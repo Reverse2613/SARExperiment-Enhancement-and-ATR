@@ -1,0 +1,15 @@
+# SAR图像质量提升 - 传统方法依赖包
+# ==========================================
+--index-url https://download.pytorch.org/whl/cu121
+
+opencv-python==4.8.0.76     # 用于图像读取、写入、直方图处理
+numpy==1.26.0               # 核心矩阵与科学计算（图像的本质是矩阵）
+scipy==1.11.3               # 用于计算信息熵和快速的局部空间滤波
+matplotlib==3.8.0           # 用于后续主程序中把处理前后的图画出来对比
+scikit-learn==1.6.1
+seaborn==0.13.2
+
+#cuda版本的torch
+torch
+torchvision
+torchaudio
