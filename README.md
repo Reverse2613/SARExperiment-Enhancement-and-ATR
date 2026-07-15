@@ -2,6 +2,14 @@
 
 基于传统方法（Lee 滤波 + CLAHE）的 SAR 图像质量提升，以及基于深度学习（SAR-YOLO & SAR-ViT）的 SAR 目标自动识别（ATR）实验项目。
 
+> > all wish to know,but few the price will pay.
+> >
+> > 求知者众，愿付代价者寡。
+> >
+> > little oratory and much labor.
+> >
+> > 多实验，少空谈。
+
 ## 项目概述
 
 本项目基于 [ATRNet-STAR](https://github.com/waterdisappear/ATRNet-STAR) 大规模 SAR 目标识别数据集，完成两个核心实验：
